@@ -12,3 +12,5 @@ Application aspects:
 -  Dockerization
 -  Monitoring Microservices using Prometheus and Grafana
 
+High-Level Architecture:
+![image](https://github.com/Pistonamey/java_spring_microservices/assets/83175234/eba4341b-d91e-433a-ab79-ad34a6c705dd)
